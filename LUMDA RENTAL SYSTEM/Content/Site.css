@@ -1,0 +1,162 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 0;
+    padding-bottom: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+
+    .body-content {
+        padding: 0;
+    }
+}
+
+
+.navBar {
+    display: flex;
+    flex-direction: row;
+    background-color: cornflowerblue;
+    height: 50px;
+    font-size: 22px;
+    padding: 5px 30px 5px 30px;
+    align-items: center;
+
+}
+
+.left {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.navBar #logo {
+    margin: 0 10px 0 10px;
+    background-color: cadetblue;
+    height: 40px;
+}
+
+#logo a img {
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+
+
+
+
+.navBar .right {
+    position: absolute;
+    right: 3px;
+    justify-content: center;
+    background-color: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+    .navBar .right .right_items {
+        border-radius: 22px;
+        background-color: inherit;
+        padding: 5px;
+        font-size: 18px;
+        color: white;
+        list-style: none;
+        text-decoration: none;
+    }
+
+        .navBar .right .right_items:hover {
+            color: gray;
+        }
+
+.navBar .left ul {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+    .navBar .left ul a {
+        text-decoration: none;
+    }
+
+        .navBar .left ul a li:hover {
+            color: gray;
+        }
+
+    .navBar .left ul li {
+        margin: 3px;
+        padding: 5px;
+        list-style: none;
+        font-size: 20px;
+        color: white;
+    }
+
+.links-bar {
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 3px;
+}
+
+    .links-bar .btn_links_bar {
+        margin: 3px;
+        padding: 3px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        text-decoration: none;
+        color: white;
+    }
+
+        .links-bar .btn_links_bar:hover {
+            color: gray;
+        }
+
+.left {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.sign_btn {
+    border-radius: 9px;
+    padding: 2px 10px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    right: 25px;
+    font-size: 15px;
+}
+
+    .sign_btn:hover {
+        background-color: rebeccapurple;
+    }
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+/*LOGIN*/

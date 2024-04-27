@@ -1,0 +1,252 @@
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\LUMDA RENTAL SYSTEM.dll.config
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\LUMDA RENTAL SYSTEM.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\LUMDA RENTAL SYSTEM.pdb
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csc.exe
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csc.exe.config
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csc.rsp
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csi.exe
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csi.exe.config
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csi.rsp
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.AppContext.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Console.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.Compression.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Claims.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.ValueTuple.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\vbc.exe
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\vbc.exe.config
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\vbc.rsp
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\VBCSCompiler.exe
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Antlr3.Runtime.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Newtonsoft.Json.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Web.Optimization.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\WebGrease.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Web.Optimization.xml
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Newtonsoft.Json.xml
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Antlr3.Runtime.pdb
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.csprojAssemblyReference.cache
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.csproj.CopyComplete
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.dll
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.pdb
+C:\Users\hasib\source\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\LUMDA RENTAL SYSTEM.dll.config
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\LUMDA RENTAL SYSTEM.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\LUMDA RENTAL SYSTEM.pdb
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csc.exe
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csc.exe.config
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csc.rsp
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csi.exe
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csi.exe.config
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csi.rsp
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.AppContext.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Console.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\vbc.exe
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\vbc.exe.config
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\vbc.rsp
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Antlr3.Runtime.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Newtonsoft.Json.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Web.Optimization.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\WebGrease.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Web.Optimization.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Newtonsoft.Json.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Antlr3.Runtime.pdb
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.csproj.AssemblyReference.cache
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.csproj.CopyComplete
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.pdb
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Buffers.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Memory.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Numerics.Vectors.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Text.Encodings.Web.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Text.Json.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.ValueTuple.dll
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Buffers.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Memory.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Numerics.Vectors.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Text.Encodings.Web.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Text.Json.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Fridon\Desktop\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.ValueTuple.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.pdb
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\LUMDA RENTAL SYSTEM.dll.config
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\LUMDA RENTAL SYSTEM.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\LUMDA RENTAL SYSTEM.pdb
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csc.exe
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csc.exe.config
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csc.rsp
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csi.exe
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csi.exe.config
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\csi.rsp
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.AppContext.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Console.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.Compression.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Claims.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.ValueTuple.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\vbc.exe
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\vbc.exe.config
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\vbc.rsp
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\VBCSCompiler.exe
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Antlr3.Runtime.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Newtonsoft.Json.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Oracle.ManagedDataAccess.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Buffers.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Memory.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Numerics.Vectors.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Text.Encodings.Web.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Text.Json.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.ValueTuple.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Web.Optimization.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\WebGrease.dll
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Buffers.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Memory.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Numerics.Vectors.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Text.Encodings.Web.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Text.Json.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.ValueTuple.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\System.Web.Optimization.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Newtonsoft.Json.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Antlr3.Runtime.pdb
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.csproj.AssemblyReference.cache
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RENTAL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Downloads\repos\repos\LUMDA RENTAL SYSTEM\LUMDA RENTAL SYSTEM\obj\Debug\LUMDA RE.6E857E1E.Up2Date
