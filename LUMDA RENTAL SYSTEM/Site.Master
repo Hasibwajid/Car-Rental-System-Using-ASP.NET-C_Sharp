@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="LUMDA_RENTAL_SYSTEM.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    
+  
+    <form runat="server">    
+        <div class="navBar">
+        <div id ="logo">
+            <a href="Home.aspx"> <img src="Toyota-Celica-GT-Four-Front.jpg"/></a>
+        </div>
+        <div class ="left">
+            <ul>
+                <a href="Home.aspx"><li class="navbar-link">Home</li></a>
+                <a href="book_car_page.aspx"><li class="navbar-link">Book Car</li></a>
+                <a href="Rentals_page.aspx"><li class="navbar-link">Your Rentals</li></a>
+                <a href="About.aspx"><li class="navbar-link">About</li></a>
+                <a href="Contact.aspx"><li class="navbar-link">Contact</li></a>
+            </ul>
+            </div>
+         <div class="right">
+            
+            <asp:LinkButton ID="btn_logout" OnClientClick="return confirm('sure?');" OnClick="Logout_Click" CssClass = " right_items btn-success" runat="server" Visible="False">Logout</asp:LinkButton>
+            <asp:LinkButton ID="btn_log_in"  CssClass =" right_items " runat="server" OnClick="btn_login_Click">Log In</asp:LinkButton>
+             <asp:LinkButton ID="role"  CssClass ="right_items btn-success" runat="server" Visible="False">User Name</asp:LinkButton>
+                </div>
+    </div>
+  
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <div class="links-bar" > 
+        <div class="row">
+           <asp:LinkButton ID ="btn_admin" runat="server" CssClass ="btn_links_bar" OnClick="btn_admin_Click">Admin Login</asp:LinkButton>
+           <asp:LinkButton ID ="btn_customer" runat="server" CssClass ="btn_links_bar" OnClick="btn_customer_management_Click" Visible="false">Customers</asp:LinkButton>
+           <asp:LinkButton ID ="btn_cars" runat="server" CssClass ="btn_links_bar" OnClick="btn_car_inverntory_management_Click" Visible="false">Cars</asp:LinkButton>
+           <asp:LinkButton ID ="btn_drivers" runat="server" CssClass ="btn_links_bar" OnClick="btn_drivers_management_Click" Visible="false">Drivers</asp:LinkButton>
+           <asp:LinkButton ID ="btn_rentals" runat="server" CssClass ="btn_links_bar" OnClick="btn_rental_management_Click" Visible="false">Rentals</asp:LinkButton>
+           <asp:LinkButton ID ="btn_returns" runat="server" CssClass ="btn_links_bar" Visible="false">Returns</asp:LinkButton>
+           <asp:LinkButton ID ="btn_admins_manage" runat="server" CssClass ="btn_links_bar" OnClick="btn_admins_management_Click" Visible="false">Admins Managment</asp:LinkButton>
+
+        </div>
+    </div>
+    <footer>
+        @Copywrite All Rights Reserved 2022
+    </footer>
+
+        </form>
+
+
+            
+</body>
+</html>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LUMDA RENTAL SYSTEM", "LUMDA RENTAL SYSTEM.csproj", "{BF3B4A9F-A595-433E-BBFC-8616C9E7088A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3B4A9F-A595-433E-BBFC-8616C9E7088A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3B4A9F-A595-433E-BBFC-8616C9E7088A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3B4A9F-A595-433E-BBFC-8616C9E7088A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3B4A9F-A595-433E-BBFC-8616C9E7088A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF52A704-2195-4451-A828-09FB4397FE59}
+	EndGlobalSection
+EndGlobal
